@@ -22,7 +22,7 @@ Overall, mounting volumes in Docker allows for data persistence, easy file shari
 
 Commands
 
-docker run -d -p 9090:9090 -v /home/vagrant/prometheus.yml:/etc/prometheus/prometheus.yml prom/prometheus
+docker run -d -p 9090:9090 -v /home/ubuntu/prometheus.yml:/etc/prometheus/prometheus.yml prom/prometheus
 
 prometheus.yml
 
