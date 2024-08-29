@@ -20,7 +20,7 @@ Continuous Inspection: SonarQube integrates seamlessly into the continuous integ
 This ensures that every code change is automatically checked for quality and adherence to coding standards, reducing the risk of introducing bugs or security vulnerabilities.
 
 Security Vulnerability Detection: SonarQube has built-in security analysis capabilities that help identify potential security vulnerabilities in the code. 
-It can detect common security issues, such as cross-site scripting (XSS), SQL injection, and insecure authentication, which are critical concerns for DevOps engineers responsible for maintaining secure software systems.
+It can detect common security issues, such as cross-site scripting (XSS), SQL injection, and insecure encryption, which are critical concerns for DevOps engineers responsible for maintaining secure software systems.
 
 Technical Debt Management: SonarQube provides insights into the overall technical debt of a project. 
 Technical debt refers to the accumulated cost of future rework or maintenance due to shortcuts or suboptimal solutions during development. 
